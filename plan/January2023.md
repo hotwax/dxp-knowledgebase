@@ -51,6 +51,10 @@ January 2022
 
 Releases done:
 
+| Date | Application | Release Version | Highlights |
+| --- | --- | --- | --- |
+| 02/01/2023 | oms-api | [v1.1.0](https://github.com/hotwax/oms-api/releases/tag/v1.1.0/) |
+
 <table>
 <tr>
 <th>Date</th>
