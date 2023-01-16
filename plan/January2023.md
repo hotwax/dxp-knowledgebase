@@ -61,7 +61,7 @@ Releases done:
 <tr>
 <td>02/01/2023</td>
 <td>oms-api</td>
-<td>[v1.1.0](https://github.com/hotwax/oms-api/releases/tag/v1.1.0)</td>
+<td>["v1.1.0"](https://github.com/hotwax/oms-api/releases/tag/v1.1.0)</td>
 <td></td>
 </tr>
 <tr>
@@ -109,7 +109,7 @@ Releases done:
 <tr>
 <td>13/01/2023</td>
 <td>import</td>
-<td>[v2.1.0](https://github.com/hotwax/hotwax-apps-theme/releases/tag/v1.1.0)</td>
+<td>[v2.1.0](https://github.com/hotwax/import/releases/tag/v2.1.0)</td>
 <td></td>
 </tr>
 <tr>
