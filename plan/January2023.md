@@ -53,103 +53,18 @@ Releases done:
 
 | Date | Application | Release Version | Highlights |
 | --- | --- | --- | --- |
-| 02/01/2023 | oms-api | [v1.1.0](https://github.com/hotwax/oms-api/releases/tag/v1.1.0/) |
-
-<table>
-<tr>
-<th>Date</th>
-<th>Application</th>
-<th>Release Version</th>
-<th>Highlights</th>
-</tr>
-<tr>
-<td>02/01/2023</td>
-<td>oms-api</td>
-<td>[v1.1.0](https://github.com/hotwax/oms-api/releases/tag/v1.1.0/)</td>
-<td></td>
-</tr>
-<tr>
-<td>05/01/2023</td>
-<td>app-version-info</td>
-<td>[v1.0.0](https://github.com/hotwax/app-version-info/releases/tag/v1.0.0)</td>
-<td></td>
-</tr>
-<tr>
-<td>06/01/2023</td>
-<td>receiving</td>
-<td>[v2.4.0](https://github.com/hotwax/receiving/releases/tag/v2.4.0)</td>
-<td></td>
-</tr>
-<tr>
-<td>06/01/2023</td>
-<td>oms-api</td>
-<td>[v1.2.0](https://github.com/hotwax/oms-api/releases/tag/v1.2.0)</td>
-<td></td>
-</tr>
-<tr>
-<td>06/01/2023</td>
-<td>hotwax-apps-themes</td>
-<td>[v1.0.0](https://github.com/hotwax/hotwax-apps-theme/releases/tag/v1.0.0)</td>
-<td></td>
-</tr>
-<tr>
-<td>06/01/2023</td>
-<td>import</td>
-<td>[v2.0.0](https://github.com/hotwax/import/releases/tag/v2.0.0)</td>
-<td></td>
-</tr>
-<tr>
-<td>06/01/2023</td>
-<td>job manager</td>
-<td>[v1.5.0](https://github.com/hotwax/job-manager/releases/tag/v1.5.0)</td>
-<td></td>
-</tr>
-<tr>
-<td>12/01/2023</td>
-<td>hotwax-apps-theme</td>
-<td>[v1.1.0](https://github.com/hotwax/hotwax-apps-theme/releases/tag/v1.1.0)</td>
-<td></td>
-</tr>
-<tr>
-<td>13/01/2023</td>
-<td>import</td>
-<td>[v2.1.0](https://github.com/hotwax/import/releases/tag/v2.1.0)</td>
-<td></td>
-</tr>
-<tr>
-<td>13/01/2023</td>
-<td>preorder</td>
-<td>[v1.1.0](https://github.com/hotwax/preorder/releases/tag/v1.1.0)</td>
-<td></td>
-</tr>
-<tr>
-<td>13/01/2023</td>
-<td>oms-api</td>
-<td>[v1.3.0](https://github.com/hotwax/oms-api/releases/tag/v1.3.0)</td>
-<td></td>
-</tr>
-<tr>
-<td>13/01/2023</td>
-<td>picking</td>
-<td>[v1.3.0](https://github.com/hotwax/picking/releases/tag/v1.3.0)</td>
-<td></td>
-</tr>
-<tr>
-<td>13/01/2023</td>
-<td>inventory-count</td>
-<td>[v1.2.0](https://github.com/hotwax/inventory-count/releases/tag/v1.2.0)</td>
-<td></td>
-</tr>
-<tr>
-<td>13/01/2023</td>
-<td>receiving</td>
-<td>[v2.5.0](https://github.com/hotwax/receiving/releases/tag/v2.5.0)</td>
-<td></td>
-</tr>
-<tr>
-<td>13/01/2023</td>
-<td>threshold-management</td>
-<td>[v1.2.0](https://github.com/hotwax/threshold-management/releases/tag/v1.2.0)</td>
-<td></td>
-</tr>
-</table>
+| 13/01/2023 | threshold-management | [v1.2.0](https://github.com/hotwax/threshold-management/releases/tag/v1.2.0) | |
+| 13/01/2023 | receiving | [v2.5.0](https://github.com/hotwax/receiving/releases/tag/v2.5.0) | |
+| 13/01/2023 | inventory-count | [v1.2.0](https://github.com/hotwax/inventory-count/releases/tag/v1.2.0) | |
+| 13/01/2023 | picking | [v1.3.0](https://github.com/hotwax/picking/releases/tag/v1.3.0) | |
+| 13/01/2023 | oms-api | [v1.3.0](https://github.com/hotwax/oms-api/releases/tag/v1.3.0) | |
+| 13/01/2023 | preorder | [v1.1.0](https://github.com/hotwax/preorder/releases/tag/v1.1.0) | |
+| 13/01/2023 | import | [v2.1.0](https://github.com/hotwax/import/releases/tag/v2.1.0) | |
+| 12/01/2023 | hotwax-apps-theme | [v1.1.0](https://github.com/hotwax/hotwax-apps-theme/releases/tag/v1.1.0) | |
+| 06/01/2023 | job manager | [v1.5.0](https://github.com/hotwax/job-manager/releases/tag/v1.5.0) | |
+| 06/01/2023 | import | [v2.0.0](https://github.com/hotwax/import/releases/tag/v2.0.0) | |
+| 06/01/2023 | hotwax-apps-themes | [v1.0.0](https://github.com/hotwax/hotwax-apps-theme/releases/tag/v1.0.0) | |
+| 06/01/2023 | oms-api | [v1.2.0](https://github.com/hotwax/oms-api/releases/tag/v1.2.0) | |
+| 06/01/2023 | receiving | [v2.4.0](https://github.com/hotwax/receiving/releases/tag/v2.4.0) | |
+| 05/01/2023 | app-version-info | [v1.0.0](https://github.com/hotwax/app-version-info/releases/tag/v1.0.0) | |
+| 02/01/2023 | oms-api | [v1.1.0](https://github.com/hotwax/oms-api/releases/tag/v1.1.0/) | |
