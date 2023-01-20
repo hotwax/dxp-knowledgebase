@@ -26,7 +26,7 @@
 
 The main purpose of this module is to provide information regarding stock of product(s). The transformation rules for the module are defined in mappings/stock, and the typings for stock are available in types/stock.
 
-When fetching the stock, the module does not handle the case of `not found` products. If all the product(s) for which inventory needs to be fetched is/are not found on server then module simply returns an error response and when some of the products are not found when fetching stock for multiple products, then only those products were returned whose stock is found on server and other products are not returned in response.
+When fetching the stock, the module does not handle the case of product(s) those were not found on server. If all the product(s) for which inventory needs to be fetched is/are not found on server then module simply returns an error response and when some of the products are not found when fetching stock for multiple products, then only those products were returned whose stock is found on server and other products are not returned in response.
 
 **Use Cases:**
 - fetch total stock for product(s) on all facilities
@@ -69,7 +69,7 @@ When fetching the stock, the module does not handle the case of `not found` prod
     }
     ```
 
-- fetchProductsStockAtFacility
+- fetchProductsStockByFacility
 
   Fetches the product(s) stock by facility. This method can be useful when we want to fetch the stock of product(s) on single/multiple/all facilities. When want to fetch the stock for all facilities don't pass value for facilityId(s) in the method call. This method makes use of `checkInventory` api.
 
