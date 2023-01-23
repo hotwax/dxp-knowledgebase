@@ -41,7 +41,7 @@ January 2022
 <tr>
 <td>Hotwax Theme package</td>
 <td>Implementation and application to all the apps</td>
-<td>TBD</td>
+<td>Done for all apps</td>
 </tr>
 
 
