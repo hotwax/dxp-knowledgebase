@@ -10,7 +10,7 @@ January 2022
 <tr>
 <td>Permissions</td>
 <td>2 applications (namely Job Manager and Threshold Management)</td>
-<td>Job Manager - Implementation done, Rules pending</td>
+<td>Job Manager - Implementation done, rules pending</td>
 </tr>
 
 <tr>
