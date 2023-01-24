@@ -53,6 +53,12 @@ Releases done:
 
 | Date | Application | Release Version | Highlights |
 | --- | --- | --- | --- |
+| 20/01/2023 | import | [v2.2.0](https://github.com/hotwax/import/releases/tag/v2.2.0) | |
+| 20/01/2023 | bopis | [v2.2.0](https://github.com/hotwax/bopis/releases/tag/v2.2.0) | |
+| 20/01/2023 | oms-api | [v1.4.0](https://github.com/hotwax/oms-api/releases/tag/v1.4.0) | |
+| 20/01/2023 | job manager | [v1.6.0](https://github.com/hotwax/job-manager/releases/tag/v1.6.0) | |
+| 20/01/2023 | inventory-count | [v1.3.0](https://github.com/hotwax/inventory-count/releases/tag/v1.3.0) | |
+| 19/01/2023 | job manager | [v1.5.1](https://github.com/hotwax/job-manager/releases/tag/v1.5.1) | |
 | 13/01/2023 | threshold-management | [v1.2.0](https://github.com/hotwax/threshold-management/releases/tag/v1.2.0) | |
 | 13/01/2023 | receiving | [v2.5.0](https://github.com/hotwax/receiving/releases/tag/v2.5.0) | |
 | 13/01/2023 | inventory-count | [v1.2.0](https://github.com/hotwax/inventory-count/releases/tag/v1.2.0) | |
