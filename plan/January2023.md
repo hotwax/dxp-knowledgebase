@@ -35,7 +35,7 @@ January 2022
 <tr>
 <td>Showing app version, build information, and browser compatibility</td>
 <td>Implementation and applying to all the apps</td>
-<td>TBD</td>
+<td>App version, & build information published a plugin, done in Import, Job Manager. Dependency of Luxon work in other apps</td>
 </tr>
 
 <tr>
