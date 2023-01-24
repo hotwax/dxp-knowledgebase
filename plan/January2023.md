@@ -16,19 +16,19 @@ January 2022
 <tr>
 <td>Timezone</td>
 <td>Fix UTC issue. Add timezone support in all applications</td>
-<td>TBD</td>
+<td>Fix done, moment to luxon migration pending in some apps</td>
 </tr>
 
 <tr>
 <td>Logger</td>
 <td>POC Done. Add in-app logger and implement in 2 applications (namely Job Manager and Threshold Management)</td>
-<td>TBD</td>
+<td>Job Manager, Threshold Management and Import app done</td>
 </tr>
 
 <tr>
 <td>OMS API</td>
 <td>Apply the Product, User, and Stock modules to all apps</td>
-<td>TBD</td>
+<td> Product (Import), User (1 method in OMS API), Stock (PR) Revising the strategy</td>
 </tr>
 
 
