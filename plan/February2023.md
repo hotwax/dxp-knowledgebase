@@ -15,12 +15,6 @@ January 2022
 </tr>
 
 <tr>
-<td>Timezone</td>
-<td>Use Luxon in all applications. Moment is obsolete, some of the apps still use moment. Need to migrate to Luxon</td>
-<td></td>
-</tr>
-
-<tr>
 <td>Logger</td>
 <td>Apply to all apps, explore on pushing logs to server</td>
 <td>TBD</td>
